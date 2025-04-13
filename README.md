@@ -1,4 +1,4 @@
-# Bitcoin Wallet Tool
+# Bitcoin Wallet Tool (POC)
 
 A comprehensive command-line utility for Bitcoin wallet management, address generation, and blockchain exploration.
 
